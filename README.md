@@ -2,7 +2,8 @@
 # Output:
 # The Library Management System is a Java-based web application designed to streamline the management and operation of a library. This system offers functionalities for managing books, users, and transactions, providing an intuitive interface for both librarians and members. The application is built using Java technologies for both the frontend and backend, ensuring a cohesive and scalable architecture.
 # User Management,Book Management,Transaction Management,Notifications,Reporting.
-# Tech Stack : Frontend:
+# Tech Stack :
+     Front-end:
   - Java Server Pages (JSP) / Thymeleaf
   - HTML, CSS, JavaScript
   - Bootstrap for responsive design
