@@ -11,8 +11,7 @@
   - Java with Spring Boot
   - Hibernate ORM for database interaction
   - MySQL for data storage
-
-    Deployment:
+  - 
   - Hosted on Apache Tomcat
 
 
